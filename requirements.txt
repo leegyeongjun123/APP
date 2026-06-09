@@ -1,0 +1,6 @@
+streamlit
+pandas
+pymatgen
+mp-api
+py3Dmol
+typing_extensions
